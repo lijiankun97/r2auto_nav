@@ -1,9 +1,5 @@
 Li Jiankun 
 Lim Wei Jian WAAAJIAN
 Harshita 2004-harsh
-<<<<<<< HEAD
 Dai Baizhou Patrick dbzpatrick
-=======
-Dai Baizhou Patrick
 Lee Jia Claire clj55
->>>>>>> f56b3fc42287736e46a19e739583d3a5967f9f06
